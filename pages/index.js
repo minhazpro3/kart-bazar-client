@@ -10,6 +10,8 @@ export default function Home() {
       setLoading(false);
     }, 3000);
   }, []);
+
+  
   return (
     <div className="feature-font">
     <Head>
